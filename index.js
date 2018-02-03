@@ -21,5 +21,9 @@ function inc(n){
 }
 
 function dec(n){
-  return n -= parseint(1)
+  return --n
+}
+
+function makeInt(n){
+  return parseInt(n)
 }
