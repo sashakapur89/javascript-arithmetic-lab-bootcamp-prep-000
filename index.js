@@ -9,10 +9,10 @@ function subtract(a, b){
 }
 
 function multiply(a, b){
-  var product = a * b
-  return product
+  return a*b
 }
 
 function divide(a, b){
   return a/b
 }
+
